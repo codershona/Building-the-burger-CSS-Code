@@ -1,0 +1,197 @@
+.main-box {
+    width: 505px;
+    /* width: 300px; */
+    margin: auto;
+    height: 460px;
+}
+
+
+.burger-bread-top {
+    height: 22%;
+    width: 82%;
+    background: linear-gradient(#bc581e, #e27b36);
+    border-radius: 50% 50% 0 0;
+    box-shadow: inset -15px 0 #c15711;
+    margin: 2.5% auto;
+
+    position: relative;
+}
+
+
+.seeds-one {
+
+    position: absolute;
+
+    width: 11%;
+
+    height: 16%;
+
+    background-color: white;
+
+    left: 31%;
+
+    top: 51%;
+    border-radius: 40%;
+
+    transform: rotate(-20deg);
+
+    box-shadow: inset -2px -3px #c9c9c9;
+
+}
+
+.seeds-one:after {
+    content: "";
+    width: 100%;
+
+    height: 100%;
+
+    position: absolute;
+
+    background-color: white;
+
+    left: -170%;
+
+    top: -260%;
+
+    border-radius: 40%;
+
+    transform: rotate(0deg);
+
+    /* transform: rotate(20deg)/ rotate(60deg); --don't do this it will back again straight which is 20 deg and 60 deg will became opposite direction.  */
+
+    box-shadow: inset -1px 2px #c9c9c9;
+
+
+
+}
+
+.seeds-one:before {
+    content: "";
+    width: 100%;
+
+    height: 100%;
+
+    position: absolute;
+
+    background-color: white;
+
+    left: 181%;
+
+    top: -51%;
+
+    border-radius: 40%;
+
+    transform: rotate(60deg);
+
+    /* transform: rotate(20deg)/ rotate(60deg); --don't do this it will back again straight which is 20 deg and 60 deg will became opposite direction.  */
+
+    box-shadow: inset -1px 3px #c9c9c9;
+}
+
+
+.seeds-2-two {
+
+    position: absolute;
+
+    width: 11%;
+
+    height: 16%;
+
+    background-color: white;
+
+    left: 65%;
+
+    top: 50%;
+    border-radius: 40%;
+
+    transform: rotate(10deg);
+
+    box-shadow: inset -3px -0 #c9c9c9;
+
+}
+
+
+.seeds-2-two:after {
+
+    position: absolute;
+
+    width: 100%;
+
+    height: 100%;
+
+    background-color: white;
+    content: "";
+
+    left: 150%;
+
+    top: -130%;
+    border-radius: 40%;
+
+    transform: rotate(100deg);
+
+    /* transform: rotate(90deg); */
+
+    box-shadow: inset 1px 3px #c9c9c9;
+
+}
+
+
+
+.burger-salad {
+    width: 92%;
+    height: 8%;
+    background: linear-gradient(#228c1d, #19ce50);
+
+    margin: 2.5% auto;
+    
+    border-radius: 24px;
+
+}
+
+.burger-mutton {
+    width: 81%;
+    height: 3%;
+    background: linear-gradient(#bf3813, #c45e38);
+
+    margin: 2.3% auto;
+
+}
+
+.burger-mozarella-cheese {
+
+    width: 92%;
+    height: 5.5%;
+    background: linear-gradient(#f4d004, #d6bb22);
+
+    margin: 2.3% auto;
+    
+    border-radius: 21px;
+
+}
+
+
+.burger-meat {
+
+
+    width: 83%;
+    height: 9%;
+    background: linear-gradient(#7f3608, #702e05);
+
+    margin: 2.2% auto;
+    
+    border-radius: 16px;
+
+}
+
+.burger-bread-bottom {
+    height: 15%;
+    width: 82%;
+
+    background: linear-gradient(#f08e4a, #e27b36);
+
+    margin: 2% auto;
+    box-shadow: inset -15px 0 #c15711;
+
+    border-radius: 0 0 30px 30px;
+
+}
