@@ -1,8 +1,4 @@
 # Building-the-burger-CSS-Code
 
-* NOTES :
+* Burger CSS is Ready and CSS tricks are done
 
-```
-   - 
-
-```
