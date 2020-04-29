@@ -1,0 +1,16 @@
+.main-box {
+    width: 505px;
+    margin: auto;
+    height: 460px;
+}
+
+
+.burger-bread-top {
+    height: 22%;
+    width: 82%;
+    background: linear-gradient(#bc581e, #e27b36);
+    border-radius: 50% 50% 0 0;
+    box-shadow: inset;
+
+
+}
