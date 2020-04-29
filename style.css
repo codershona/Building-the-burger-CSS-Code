@@ -1,5 +1,6 @@
 .main-box {
     width: 505px;
+    /* width: 300px; */
     margin: auto;
     height: 460px;
 }
@@ -12,6 +13,28 @@
     border-radius: 50% 50% 0 0;
     box-shadow: inset -15px 0 #c15711;
     margin: 2.5% auto;
+
+    position: relative;
+}
+
+
+.seeds-one {
+
+    position: absolute;
+
+    width: 11%;
+
+    height: 16%;
+
+    background-color: white;
+
+    left: 31%;
+
+    top: 51%;
+    border-radius: 40%;
+    
+
+
 }
 
 .burger-salad {
