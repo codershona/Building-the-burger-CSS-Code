@@ -10,7 +10,16 @@
     width: 82%;
     background: linear-gradient(#bc581e, #e27b36);
     border-radius: 50% 50% 0 0;
-    box-shadow: inset;
+    box-shadow: inset -15px 0 #c15711;
+    margin: 2.5% auto;
+}
+
+.burger-salad {
+    width: 92%;
+    height: 8%;
+    background: linear-gradient(#228c1d, #19ce50);
+    
+    margin: 2.5% auto;
 
 
 }
