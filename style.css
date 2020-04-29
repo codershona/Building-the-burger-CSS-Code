@@ -18,8 +18,24 @@
     width: 92%;
     height: 8%;
     background: linear-gradient(#228c1d, #19ce50);
-    
+
     margin: 2.5% auto;
+    
+    border-radius: 24px;
+
+}
+
+.burger-bread-bottom {
+    height: 15%;
+    width: 82%;
+
+    background: linear-gradient(#f08e4a, #e27b36);
+
+    margin: 2% auto;
+    box-shadow: inset -15px 0 #c15711;
+
+    
+
 
 
 }
