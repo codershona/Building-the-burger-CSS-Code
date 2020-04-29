@@ -25,6 +25,41 @@
 
 }
 
+.burger-mutton {
+    width: 81%;
+    height: 3%;
+    background: linear-gradient(#bf3813, #c45e38);
+
+    margin: 2.3% auto;
+
+}
+
+.burger-mozarella-cheese {
+
+    width: 92%;
+    height: 5.5%;
+    background: linear-gradient(#f4d004, #d6bb22);
+
+    margin: 2.3% auto;
+    
+    border-radius: 21px;
+
+}
+
+
+.burger-meat {
+
+
+    width: 83%;
+    height: 9%;
+    background: linear-gradient(#7f3608, #702e05);
+
+    margin: 2.2% auto;
+    
+    border-radius: 16px;
+
+}
+
 .burger-bread-bottom {
     height: 15%;
     width: 82%;
@@ -35,9 +70,5 @@
     box-shadow: inset -15px 0 #c15711;
 
     border-radius: 0 0 30px 30px;
-
-    
-
-
 
 }
